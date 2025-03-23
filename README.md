@@ -20,9 +20,9 @@ To run this project, ensure you have the following dependencies installed:
 - **Ultralytics YOLO Library**: For object detection using YOLOv11.
 
 You can install the required dependencies using pip:
-
-`pip install opencv-python ultralytics`
-
+```bash
+pip install opencv-python ultralytics
+```
 ## Usage
 
 1. **Clone the Repository**:
